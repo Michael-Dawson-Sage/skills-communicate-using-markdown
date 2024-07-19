@@ -3,6 +3,22 @@ stuff
 ## Heading Two
 more stuff
 ### Heading Three
-even more sturr
+even more stuff
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` powershell
+$test = "blah"
+if ($true) {
+  write-output "This is a test"
+}
+```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
